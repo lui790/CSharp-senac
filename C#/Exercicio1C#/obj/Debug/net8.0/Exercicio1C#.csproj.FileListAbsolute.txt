@@ -1,0 +1,14 @@
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\C#\Exercicio1C#\obj\Debug\net8.0\Exercicio1C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\C#\Exercicio1C#\obj\Debug\net8.0\Exercicio1C#.AssemblyInfoInputs.cache
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\C#\Exercicio1C#\obj\Debug\net8.0\Exercicio1C#.AssemblyInfo.cs
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\C#\Exercicio1C#\obj\Debug\net8.0\Exercicio1C#.csproj.CoreCompileInputs.cache
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\C#\Exercicio1C#\bin\Debug\net8.0\Exercicio1C#.exe
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\C#\Exercicio1C#\bin\Debug\net8.0\Exercicio1C#.deps.json
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\C#\Exercicio1C#\bin\Debug\net8.0\Exercicio1C#.runtimeconfig.json
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\C#\Exercicio1C#\bin\Debug\net8.0\Exercicio1C#.dll
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\C#\Exercicio1C#\bin\Debug\net8.0\Exercicio1C#.pdb
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\C#\Exercicio1C#\obj\Debug\net8.0\Exercicio1C#.dll
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\C#\Exercicio1C#\obj\Debug\net8.0\refint\Exercicio1C#.dll
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\C#\Exercicio1C#\obj\Debug\net8.0\Exercicio1C#.pdb
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\C#\Exercicio1C#\obj\Debug\net8.0\Exercicio1C#.genruntimeconfig.cache
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\C#\Exercicio1C#\obj\Debug\net8.0\ref\Exercicio1C#.dll

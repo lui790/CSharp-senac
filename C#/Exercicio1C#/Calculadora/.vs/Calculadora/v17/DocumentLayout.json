@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LUISFELIPEKURTZLEAO\\source\\repos\\Calculadora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A73C1A1E-FEFA-4B9A-9901-A70E30F4D915}|Calculadora.csproj|c:\\users\\luisfelipekurtzleao\\source\\repos\\calculadora\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A73C1A1E-FEFA-4B9A-9901-A70E30F4D915}|Calculadora.csproj|solutionrelative:calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A73C1A1E-FEFA-4B9A-9901-A70E30F4D915}|Calculadora.csproj|C:\\Users\\LUISFELIPEKURTZLEAO\\source\\repos\\Calculadora\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A73C1A1E-FEFA-4B9A-9901-A70E30F4D915}|Calculadora.csproj|solutionrelative:calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculadora.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\LUISFELIPEKURTZLEAO\\source\\repos\\Calculadora\\Calculadora.cs",
+              "RelativeDocumentMoniker": "Calculadora.cs",
+              "ToolTip": "C:\\Users\\LUISFELIPEKURTZLEAO\\source\\repos\\Calculadora\\Calculadora.cs [Projeto]",
+              "RelativeToolTip": "Calculadora.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T00:47:12.814Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\LUISFELIPEKURTZLEAO\\source\\repos\\Calculadora\\Calculadora.cs",
+              "RelativeDocumentMoniker": "Calculadora.cs",
+              "ToolTip": "C:\\Users\\LUISFELIPEKURTZLEAO\\source\\repos\\Calculadora\\Calculadora.cs",
+              "RelativeToolTip": "Calculadora.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAASwEIAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T00:40:34.182Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

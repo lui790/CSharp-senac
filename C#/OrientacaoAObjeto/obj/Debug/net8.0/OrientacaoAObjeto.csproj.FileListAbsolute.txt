@@ -1,0 +1,14 @@
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\C#\OrientacaoAObjeto\obj\Debug\net8.0\OrientacaoAObjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\C#\OrientacaoAObjeto\obj\Debug\net8.0\OrientacaoAObjeto.AssemblyInfoInputs.cache
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\C#\OrientacaoAObjeto\obj\Debug\net8.0\OrientacaoAObjeto.AssemblyInfo.cs
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\C#\OrientacaoAObjeto\obj\Debug\net8.0\OrientacaoAObjeto.csproj.CoreCompileInputs.cache
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\C#\OrientacaoAObjeto\bin\Debug\net8.0\OrientacaoAObjeto.exe
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\C#\OrientacaoAObjeto\bin\Debug\net8.0\OrientacaoAObjeto.deps.json
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\C#\OrientacaoAObjeto\bin\Debug\net8.0\OrientacaoAObjeto.runtimeconfig.json
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\C#\OrientacaoAObjeto\bin\Debug\net8.0\OrientacaoAObjeto.dll
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\C#\OrientacaoAObjeto\bin\Debug\net8.0\OrientacaoAObjeto.pdb
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\C#\OrientacaoAObjeto\obj\Debug\net8.0\OrientacaoAObjeto.dll
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\C#\OrientacaoAObjeto\obj\Debug\net8.0\refint\OrientacaoAObjeto.dll
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\C#\OrientacaoAObjeto\obj\Debug\net8.0\OrientacaoAObjeto.pdb
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\C#\OrientacaoAObjeto\obj\Debug\net8.0\OrientacaoAObjeto.genruntimeconfig.cache
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\C#\OrientacaoAObjeto\obj\Debug\net8.0\ref\OrientacaoAObjeto.dll

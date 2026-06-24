@@ -1,0 +1,14 @@
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\C#\MeuPrimeiroProjetoC#\bin\Debug\net8.0\MeuPrimeiroProjetoC#.exe
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\C#\MeuPrimeiroProjetoC#\bin\Debug\net8.0\MeuPrimeiroProjetoC#.deps.json
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\C#\MeuPrimeiroProjetoC#\bin\Debug\net8.0\MeuPrimeiroProjetoC#.runtimeconfig.json
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\C#\MeuPrimeiroProjetoC#\bin\Debug\net8.0\MeuPrimeiroProjetoC#.dll
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\C#\MeuPrimeiroProjetoC#\bin\Debug\net8.0\MeuPrimeiroProjetoC#.pdb
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\C#\MeuPrimeiroProjetoC#\obj\Debug\net8.0\MeuPrimeiroProjetoC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\C#\MeuPrimeiroProjetoC#\obj\Debug\net8.0\MeuPrimeiroProjetoC#.AssemblyInfoInputs.cache
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\C#\MeuPrimeiroProjetoC#\obj\Debug\net8.0\MeuPrimeiroProjetoC#.AssemblyInfo.cs
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\C#\MeuPrimeiroProjetoC#\obj\Debug\net8.0\MeuPrimeiroProjetoC#.csproj.CoreCompileInputs.cache
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\C#\MeuPrimeiroProjetoC#\obj\Debug\net8.0\MeuPrimeiroProjetoC#.dll
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\C#\MeuPrimeiroProjetoC#\obj\Debug\net8.0\refint\MeuPrimeiroProjetoC#.dll
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\C#\MeuPrimeiroProjetoC#\obj\Debug\net8.0\MeuPrimeiroProjetoC#.pdb
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\C#\MeuPrimeiroProjetoC#\obj\Debug\net8.0\MeuPrimeiroProjetoC#.genruntimeconfig.cache
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\C#\MeuPrimeiroProjetoC#\obj\Debug\net8.0\ref\MeuPrimeiroProjetoC#.dll
