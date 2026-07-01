@@ -29,26 +29,67 @@
 
             if (Tipo == "clt")
             {
-                    string salarioBase = "";
+                string salarioInput = "";
+                loop = 0;
                 while (loop == 0)
                 {
                     try
                     {
                         Console.WriteLine("Qual o seu salario?");
-                        salarioBase = Console.ReadLine();
-                    }
-                    catch (Exception ex)
-                    {
-                        Console.WriteLine("Sem caracteres não permitidos");
-                        if (ex == null) { loop++; }
-                    }
-                }
+                        salarioInput = Console.ReadLine();
+                        if (double.TryParse(salarioInput, out double salarioBase))
+                        {
                     new Clt(
                         Nome,
                         Cpf,
                         Tipo,
-                        int.Parse(salarioBase));
+                        salarioBase);
+                        }
+                        loop ++;
+                    }
+                    catch (Exception ex)
+                    {
+                        Console.WriteLine("Sem caracteres não permitidos");
+                    }
+
+                }
+
             }
+
+            if (Tipo == "terceirizado")
+            {
+                string horasInput = "";
+                string valorInput = "";
+
+                loop = 0;
+                while (loop == 0)
+                {
+                    try
+                    {
+                        Console.WriteLine("Horas trabalhadas");
+                        horasInput = Console.ReadLine();
+                        if (double.TryParse(horasInput, out double horasTrabalhadas))
+                        {
+                            Console.WriteLine("Qual o valor de sua hora?");
+                            valorInput = Console.ReadLine();
+                            if (double.TryParse(valorInput, out double valorHora))
+                            {
+                                new Terceirizado(
+                                    Nome,
+                                    Cpf,
+                                    Tipo,
+                                    horasTrabalhadas,
+                                    valorHora);
+                            }
+                        } else { return; }
+
+                    } catch (Exception ex) { Console.WriteLine("Erros na quantidade de valor ou horas"); }
+                }
+            }
+
+            //usar "Listas" para criar os funcionarios
+
+
         }
     }
 }

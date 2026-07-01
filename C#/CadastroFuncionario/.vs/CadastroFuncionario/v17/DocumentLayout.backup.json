@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\ConsoleApp1\\",
+  "WorkspaceRootPath": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\C#\\CadastroFuncionario\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F4B55DE-C82E-4992-A7D3-DBEF416AD350}|ConsoleApp1.csproj|c:\\users\\luisfelipekurtzleao\\desktop\\csharp-senac\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F4B55DE-C82E-4992-A7D3-DBEF416AD350}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F4B55DE-C82E-4992-A7D3-DBEF416AD350}|CadastroFuncionario.csproj|c:\\users\\luisfelipekurtzleao\\desktop\\csharp-senac\\c#\\cadastrofuncionario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4B55DE-C82E-4992-A7D3-DBEF416AD350}|CadastroFuncionario.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F4B55DE-C82E-4992-A7D3-DBEF416AD350}|CadastroFuncionario.csproj|c:\\users\\luisfelipekurtzleao\\desktop\\csharp-senac\\consoleapp1\\clt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F4B55DE-C82E-4992-A7D3-DBEF416AD350}|CadastroFuncionario.csproj|c:\\users\\luisfelipekurtzleao\\desktop\\csharp-senac\\c#\\cadastrofuncionario\\clt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F4B55DE-C82E-4992-A7D3-DBEF416AD350}|CadastroFuncionario.csproj|solutionrelative:clt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F4B55DE-C82E-4992-A7D3-DBEF416AD350}|ConsoleApp1.csproj|c:\\users\\luisfelipekurtzleao\\desktop\\csharp-senac\\consoleapp1\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F4B55DE-C82E-4992-A7D3-DBEF416AD350}|ConsoleApp1.csproj|solutionrelative:funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F4B55DE-C82E-4992-A7D3-DBEF416AD350}|CadastroFuncionario.csproj|c:\\users\\luisfelipekurtzleao\\desktop\\csharp-senac\\c#\\cadastrofuncionario\\terceirizado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4B55DE-C82E-4992-A7D3-DBEF416AD350}|CadastroFuncionario.csproj|solutionrelative:terceirizado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F4B55DE-C82E-4992-A7D3-DBEF416AD350}|ConsoleApp1.csproj|c:\\users\\luisfelipekurtzleao\\desktop\\csharp-senac\\consoleapp1\\terceirizado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F4B55DE-C82E-4992-A7D3-DBEF416AD350}|ConsoleApp1.csproj|solutionrelative:terceirizado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F4B55DE-C82E-4992-A7D3-DBEF416AD350}|CadastroFuncionario.csproj|c:\\users\\luisfelipekurtzleao\\desktop\\csharp-senac\\c#\\cadastrofuncionario\\estagiario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4B55DE-C82E-4992-A7D3-DBEF416AD350}|CadastroFuncionario.csproj|solutionrelative:estagiario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F4B55DE-C82E-4992-A7D3-DBEF416AD350}|ConsoleApp1.csproj|c:\\users\\luisfelipekurtzleao\\desktop\\csharp-senac\\consoleapp1\\estagiario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F4B55DE-C82E-4992-A7D3-DBEF416AD350}|ConsoleApp1.csproj|solutionrelative:estagiario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F4B55DE-C82E-4992-A7D3-DBEF416AD350}|CadastroFuncionario.csproj|c:\\users\\luisfelipekurtzleao\\desktop\\csharp-senac\\c#\\cadastrofuncionario\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4B55DE-C82E-4992-A7D3-DBEF416AD350}|CadastroFuncionario.csproj|solutionrelative:funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,65 +34,61 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Terceirizado.cs",
-              "DocumentMoniker": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\ConsoleApp1\\Terceirizado.cs",
+              "DocumentMoniker": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\C#\\CadastroFuncionario\\Terceirizado.cs",
               "RelativeDocumentMoniker": "Terceirizado.cs",
-              "ToolTip": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\ConsoleApp1\\Terceirizado.cs",
+              "ToolTip": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\C#\\CadastroFuncionario\\Terceirizado.cs",
               "RelativeToolTip": "Terceirizado.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T22:42:15.877Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-30T22:42:15.877Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Clt.cs",
-              "DocumentMoniker": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\ConsoleApp1\\Clt.cs",
+              "DocumentMoniker": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\C#\\CadastroFuncionario\\Clt.cs",
               "RelativeDocumentMoniker": "Clt.cs",
-              "ToolTip": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\ConsoleApp1\\Clt.cs",
+              "ToolTip": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\C#\\CadastroFuncionario\\Clt.cs",
               "RelativeToolTip": "Clt.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T23:30:30.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-30T23:30:30.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Estagiario.cs",
+              "DocumentMoniker": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\C#\\CadastroFuncionario\\Estagiario.cs",
+              "RelativeDocumentMoniker": "Estagiario.cs",
+              "ToolTip": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\C#\\CadastroFuncionario\\Estagiario.cs",
+              "RelativeToolTip": "Estagiario.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T00:48:13.778Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Estagiario.cs",
-              "DocumentMoniker": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\ConsoleApp1\\Estagiario.cs",
-              "RelativeDocumentMoniker": "Estagiario.cs",
-              "ToolTip": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\ConsoleApp1\\Estagiario.cs",
-              "RelativeToolTip": "Estagiario.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T00:48:13.778Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Funcionario.cs",
-              "DocumentMoniker": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\ConsoleApp1\\Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\C#\\CadastroFuncionario\\Funcionario.cs",
               "RelativeDocumentMoniker": "Funcionario.cs",
-              "ToolTip": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\ConsoleApp1\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\C#\\CadastroFuncionario\\Funcionario.cs",
               "RelativeToolTip": "Funcionario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T00:12:16.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-30T00:12:16.439Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\ConsoleApp1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\C#\\CadastroFuncionario\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\ConsoleApp1\\Program.cs*",
+              "ToolTip": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\C#\\CadastroFuncionario\\Program.cs*",
               "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAABsAAAAAAAAAAAAcwCMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswCAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-30T00:09:28.459Z",
               "EditorCaption": ""

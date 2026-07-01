@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CadastroFuncionario
-build_property.ProjectDir = C:\Users\LUISFELIPEKURTZLEAO\Desktop\CSharp-senac\ConsoleApp1\
+build_property.ProjectDir = C:\Users\LUISFELIPEKURTZLEAO\Desktop\CSharp-senac\C#\CadastroFuncionario\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

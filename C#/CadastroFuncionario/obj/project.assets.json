@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\ConsoleApp1\\CadastroFuncionario.csproj",
+      "projectUniqueName": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\C#\\CadastroFuncionario\\CadastroFuncionario.csproj",
       "projectName": "CadastroFuncionario",
-      "projectPath": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\ConsoleApp1\\CadastroFuncionario.csproj",
+      "projectPath": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\C#\\CadastroFuncionario\\CadastroFuncionario.csproj",
       "packagesPath": "C:\\Users\\LUISFELIPEKURTZLEAO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\C#\\CadastroFuncionario\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LUISFELIPEKURTZLEAO\\AppData\\Roaming\\NuGet\\NuGet.Config",
