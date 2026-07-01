@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\C#\\OrientacaoAObjeto\\OrientacaoAObjeto.csproj",
+      "projectUniqueName": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\C#\\Aulas\\OrientacaoAObjeto\\OrientacaoAObjeto.csproj",
       "projectName": "OrientacaoAObjeto",
-      "projectPath": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\C#\\OrientacaoAObjeto\\OrientacaoAObjeto.csproj",
+      "projectPath": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\C#\\Aulas\\OrientacaoAObjeto\\OrientacaoAObjeto.csproj",
       "packagesPath": "C:\\Users\\LUISFELIPEKURTZLEAO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\C#\\OrientacaoAObjeto\\obj\\",
+      "outputPath": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\C#\\Aulas\\OrientacaoAObjeto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LUISFELIPEKURTZLEAO\\AppData\\Roaming\\NuGet\\NuGet.Config",

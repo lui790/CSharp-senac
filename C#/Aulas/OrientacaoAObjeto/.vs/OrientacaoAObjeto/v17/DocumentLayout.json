@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\C#\\OrientacaoAObjeto\\",
+  "WorkspaceRootPath": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\C#\\Aulas\\OrientacaoAObjeto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{424215DF-5BFC-4F2D-B8B7-DFF7418464DC}|OrientacaoAObjeto.csproj|c:\\users\\luisfelipekurtzleao\\desktop\\c#\\orientacaoaobjeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{424215DF-5BFC-4F2D-B8B7-DFF7418464DC}|OrientacaoAObjeto.csproj|c:\\users\\luisfelipekurtzleao\\desktop\\csharp-senac\\c#\\aulas\\orientacaoaobjeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{424215DF-5BFC-4F2D-B8B7-DFF7418464DC}|OrientacaoAObjeto.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{424215DF-5BFC-4F2D-B8B7-DFF7418464DC}|OrientacaoAObjeto.csproj|c:\\users\\luisfelipekurtzleao\\desktop\\c#\\orientacaoaobjeto\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{424215DF-5BFC-4F2D-B8B7-DFF7418464DC}|OrientacaoAObjeto.csproj|c:\\users\\luisfelipekurtzleao\\desktop\\csharp-senac\\c#\\aulas\\orientacaoaobjeto\\cachorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{424215DF-5BFC-4F2D-B8B7-DFF7418464DC}|OrientacaoAObjeto.csproj|solutionrelative:cachorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{424215DF-5BFC-4F2D-B8B7-DFF7418464DC}|OrientacaoAObjeto.csproj|c:\\users\\luisfelipekurtzleao\\desktop\\csharp-senac\\c#\\aulas\\orientacaoaobjeto\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{424215DF-5BFC-4F2D-B8B7-DFF7418464DC}|OrientacaoAObjeto.csproj|solutionrelative:pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{424215DF-5BFC-4F2D-B8B7-DFF7418464DC}|OrientacaoAObjeto.csproj|c:\\users\\luisfelipekurtzleao\\desktop\\c#\\orientacaoaobjeto\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{424215DF-5BFC-4F2D-B8B7-DFF7418464DC}|OrientacaoAObjeto.csproj|solutionrelative:pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{424215DF-5BFC-4F2D-B8B7-DFF7418464DC}|OrientacaoAObjeto.csproj|c:\\users\\luisfelipekurtzleao\\desktop\\c#\\orientacaoaobjeto\\cachorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{424215DF-5BFC-4F2D-B8B7-DFF7418464DC}|OrientacaoAObjeto.csproj|solutionrelative:cachorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{424215DF-5BFC-4F2D-B8B7-DFF7418464DC}|OrientacaoAObjeto.csproj|c:\\users\\luisfelipekurtzleao\\desktop\\csharp-senac\\c#\\aulas\\orientacaoaobjeto\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{424215DF-5BFC-4F2D-B8B7-DFF7418464DC}|OrientacaoAObjeto.csproj|solutionrelative:animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,59 +26,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Pessoa.cs",
-              "DocumentMoniker": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\C#\\OrientacaoAObjeto\\Pessoa.cs",
-              "RelativeDocumentMoniker": "Pessoa.cs",
-              "ToolTip": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\C#\\OrientacaoAObjeto\\Pessoa.cs",
-              "RelativeToolTip": "Pessoa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T23:26:59.238Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Pedido.cs",
-              "DocumentMoniker": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\C#\\OrientacaoAObjeto\\Pedido.cs",
-              "RelativeDocumentMoniker": "Pedido.cs",
-              "ToolTip": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\C#\\OrientacaoAObjeto\\Pedido.cs",
-              "RelativeToolTip": "Pedido.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\C#\\Aulas\\OrientacaoAObjeto\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Pessoa.cs",
+              "ToolTip": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\C#\\Aulas\\OrientacaoAObjeto\\Pessoa.cs",
+              "RelativeToolTip": "Pessoa.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-12T23:16:54.039Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Cachorro.cs",
-              "DocumentMoniker": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\C#\\OrientacaoAObjeto\\Cachorro.cs",
-              "RelativeDocumentMoniker": "Cachorro.cs",
-              "ToolTip": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\C#\\OrientacaoAObjeto\\Cachorro.cs",
-              "RelativeToolTip": "Cachorro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-12T23:13:51.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-25T23:10:53.69Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\C#\\OrientacaoAObjeto\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\C#\\Aulas\\OrientacaoAObjeto\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\C#\\OrientacaoAObjeto\\Program.cs",
+              "ToolTip": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\C#\\Aulas\\OrientacaoAObjeto\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAQwEgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T23:03:22.529Z",
+              "WhenOpened": "2026-06-26T00:28:07.488Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cachorro.cs",
+              "DocumentMoniker": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\C#\\Aulas\\OrientacaoAObjeto\\Cachorro.cs",
+              "RelativeDocumentMoniker": "Cachorro.cs",
+              "ToolTip": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\C#\\Aulas\\OrientacaoAObjeto\\Cachorro.cs",
+              "RelativeToolTip": "Cachorro.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T23:17:19.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\C#\\Aulas\\OrientacaoAObjeto\\Animal.cs",
+              "RelativeDocumentMoniker": "Animal.cs",
+              "ToolTip": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\C#\\Aulas\\OrientacaoAObjeto\\Animal.cs",
+              "RelativeToolTip": "Animal.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T22:51:02.839Z"
             }
           ]
         }

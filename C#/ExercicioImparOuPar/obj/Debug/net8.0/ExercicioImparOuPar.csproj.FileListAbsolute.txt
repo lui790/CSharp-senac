@@ -1,0 +1,15 @@
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\CSharp-senac\ExercicioImparOuPar\bin\Debug\net8.0\ExercicioImparOuPar.exe
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\CSharp-senac\ExercicioImparOuPar\bin\Debug\net8.0\ExercicioImparOuPar.deps.json
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\CSharp-senac\ExercicioImparOuPar\bin\Debug\net8.0\ExercicioImparOuPar.runtimeconfig.json
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\CSharp-senac\ExercicioImparOuPar\bin\Debug\net8.0\ExercicioImparOuPar.dll
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\CSharp-senac\ExercicioImparOuPar\bin\Debug\net8.0\ExercicioImparOuPar.pdb
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\CSharp-senac\ExercicioImparOuPar\obj\Debug\net8.0\ExercicioImparOuPar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\CSharp-senac\ExercicioImparOuPar\obj\Debug\net8.0\ExercicioImparOuPar.AssemblyInfoInputs.cache
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\CSharp-senac\ExercicioImparOuPar\obj\Debug\net8.0\ExercicioImparOuPar.AssemblyInfo.cs
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\CSharp-senac\ExercicioImparOuPar\obj\Debug\net8.0\ExercicioImparOuPar.csproj.CoreCompileInputs.cache
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\CSharp-senac\ExercicioImparOuPar\obj\Debug\net8.0\ExercicioImparOuPar.sourcelink.json
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\CSharp-senac\ExercicioImparOuPar\obj\Debug\net8.0\ExercicioImparOuPar.dll
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\CSharp-senac\ExercicioImparOuPar\obj\Debug\net8.0\refint\ExercicioImparOuPar.dll
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\CSharp-senac\ExercicioImparOuPar\obj\Debug\net8.0\ExercicioImparOuPar.pdb
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\CSharp-senac\ExercicioImparOuPar\obj\Debug\net8.0\ExercicioImparOuPar.genruntimeconfig.cache
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\CSharp-senac\ExercicioImparOuPar\obj\Debug\net8.0\ref\ExercicioImparOuPar.dll
