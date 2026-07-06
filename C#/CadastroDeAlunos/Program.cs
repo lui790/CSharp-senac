@@ -82,26 +82,32 @@
 
                 if (input == "3")
                 {
-                    Console.WriteLine("Aqui estão todos os alunos cadastrados!");
-                    Console.WriteLine("Digite >voltar< para voltar");
+                    bool loop1 = true;
+                    string input3 = "";
+                    while (input3 == "voltar") {
+                        Console.WriteLine("Aqui estão todos os alunos cadastrados!");
+                        Console.WriteLine("Digite >nome< ou >idade< para filtrar por idade ou nome");
+                        Console.WriteLine("Digite >voltar< para voltar");
 
-                    foreach (var item in lista)
-                    {
-                        int i = 0;
-                        int idade;
-                        var Data = item.DataDeNascimento;
-                        var Ano = Data.Year;
-                        var Hoje = global::System.DateTime.Now;
-                        idade = Hoje.Year - Ano;
-                        Console.WriteLine($"{i++} - Nome: {item.Nome}\n" +
-                            $"Idade: {idade}\n" +
-                            $"Cpf: {item.Cpf}");
-                    }
-                    string input3 = Console.ReadLine();
+                        foreach (var item in lista)
+                        {
+                            int i = 0;
+                            int idade;
+                            var Data = item.DataDeNascimento;
+                            var Ano = Data.Year;
+                            var Hoje = global::System.DateTime.Now;
+                            idade = Hoje.Year - Ano;
+                            Console.WriteLine($"{i++} - Nome: {item.Nome}\n" +
+                                $"Matricula: {item.Matricula}\n" +
+                                $"Idade: {idade}\n" +
+                                $"Cpf: {item.Cpf}");
+                        }
+                        input3 = Console.ReadLine();
 
-                    if (input3 == "voltar")
-                    {
-                        Console.Clear();
+                        if (input3 == "voltar")
+                        {
+                            Console.Clear();
+                        }
                     }
                 }
 

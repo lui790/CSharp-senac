@@ -17,6 +17,7 @@ namespace CadastroDeAlunos
             DataDeNascimento = dataDeNascimento;
             Cpf = cpf;
         }
+        public Guid Matricula {  get; private set; } = Guid.NewGuid();
         public string Nome {get; private set;}
 
         public DateTime DataDeNascimento {get; private set;}
