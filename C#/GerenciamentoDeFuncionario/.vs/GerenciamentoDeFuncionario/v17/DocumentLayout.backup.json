@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\C#\\GerenciamentoDeFuncionario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7708A429-469B-4CE5-A78B-ED37581D3FEC}|GerenciamentoDeFuncionario.csproj|c:\\users\\luisfelipekurtzleao\\desktop\\csharp-senac\\c#\\gerenciamentodefuncionario\\frms\\frmtelainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7708A429-469B-4CE5-A78B-ED37581D3FEC}|GerenciamentoDeFuncionario.csproj|solutionrelative:frms\\frmtelainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7708A429-469B-4CE5-A78B-ED37581D3FEC}|GerenciamentoDeFuncionario.csproj|c:\\users\\luisfelipekurtzleao\\desktop\\csharp-senac\\c#\\gerenciamentodefuncionario\\frms\\frmtelainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7708A429-469B-4CE5-A78B-ED37581D3FEC}|GerenciamentoDeFuncionario.csproj|solutionrelative:frms\\frmtelainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7708A429-469B-4CE5-A78B-ED37581D3FEC}|GerenciamentoDeFuncionario.csproj|c:\\users\\luisfelipekurtzleao\\desktop\\csharp-senac\\c#\\gerenciamentodefuncionario\\frms\\frmloginadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7708A429-469B-4CE5-A78B-ED37581D3FEC}|GerenciamentoDeFuncionario.csproj|solutionrelative:frms\\frmloginadministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmTelaInicial.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\C#\\GerenciamentoDeFuncionario\\Frms\\FrmTelaInicial.cs",
+              "RelativeDocumentMoniker": "Frms\\FrmTelaInicial.cs",
+              "ToolTip": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\C#\\GerenciamentoDeFuncionario\\Frms\\FrmTelaInicial.cs [Projeto]*",
+              "RelativeToolTip": "Frms\\FrmTelaInicial.cs [Projeto]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T00:07:05.93Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmLoginAdministrador.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\C#\\GerenciamentoDeFuncionario\\Frms\\FrmLoginAdministrador.cs",
+              "RelativeDocumentMoniker": "Frms\\FrmLoginAdministrador.cs",
+              "ToolTip": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\C#\\GerenciamentoDeFuncionario\\Frms\\FrmLoginAdministrador.cs [Projeto]",
+              "RelativeToolTip": "Frms\\FrmLoginAdministrador.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T00:35:23.666Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmTelaInicial.cs",
+              "DocumentMoniker": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\C#\\GerenciamentoDeFuncionario\\Frms\\FrmTelaInicial.cs",
+              "RelativeDocumentMoniker": "Frms\\FrmTelaInicial.cs",
+              "ToolTip": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\C#\\GerenciamentoDeFuncionario\\Frms\\FrmTelaInicial.cs*",
+              "RelativeToolTip": "Frms\\FrmTelaInicial.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T00:22:53.302Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
