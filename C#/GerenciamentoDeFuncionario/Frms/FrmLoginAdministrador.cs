@@ -16,5 +16,22 @@ namespace GerenciamentoDeFuncionario.Frms
         {
             InitializeComponent();
         }
+
+        private void btnEntrar_Click(object sender, EventArgs e)
+        {
+            if (txtUsuario.Text == "Admin" && txtSenha.Text == "1234")
+            {
+                this.Hide();
+                new FrmTelaPrincipal().ShowDialog();
+                this.Show();
+            }
+            else
+            {
+                MessageBox.Show("Usuário ou sennha incorretos",
+                    "Erro ao fazer login",
+                    MessageBoxButtons.OK,
+                    MessageBoxIcon.Error);
+            }
+        }
     }
 }

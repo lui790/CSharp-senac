@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "TdTWzDzf2VA=",
+  "dgSpecHash": "Utpd1UngVIM=",
   "success": true,
   "projectFilePath": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\C#\\GerenciamentoDeFuncionario\\GerenciamentoDeFuncionario.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\LUISFELIPEKURTZLEAO\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",
+    "C:\\Users\\LUISFELIPEKURTZLEAO\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\LUISFELIPEKURTZLEAO\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\LUISFELIPEKURTZLEAO\\.nuget\\packages\\npgsql\\9.0.5\\npgsql.9.0.5.nupkg.sha512"
+  ],
   "logs": []
 }

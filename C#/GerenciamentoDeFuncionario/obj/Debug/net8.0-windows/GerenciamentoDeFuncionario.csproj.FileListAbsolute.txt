@@ -16,3 +16,11 @@ C:\Users\LUISFELIPEKURTZLEAO\Desktop\CSharp-senac\C#\GerenciamentoDeFuncionario\
 C:\Users\LUISFELIPEKURTZLEAO\Desktop\CSharp-senac\C#\GerenciamentoDeFuncionario\obj\Debug\net8.0-windows\GerenciamentoDeFuncionario.pdb
 C:\Users\LUISFELIPEKURTZLEAO\Desktop\CSharp-senac\C#\GerenciamentoDeFuncionario\obj\Debug\net8.0-windows\GerenciamentoDeFuncionario.genruntimeconfig.cache
 C:\Users\LUISFELIPEKURTZLEAO\Desktop\CSharp-senac\C#\GerenciamentoDeFuncionario\obj\Debug\net8.0-windows\ref\GerenciamentoDeFuncionario.dll
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\CSharp-senac\C#\GerenciamentoDeFuncionario\obj\Debug\net8.0-windows\GerenciamentoDeFuncionario.Frms.FrmTelaPrincipal.resources
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\CSharp-senac\C#\GerenciamentoDeFuncionario\obj\Debug\net8.0-windows\GerenciamentoDeFuncionario.Frms.FrmCadastroFuncionario.resources
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\CSharp-senac\C#\GerenciamentoDeFuncionario\bin\Debug\net8.0-windows\Dapper.dll
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\CSharp-senac\C#\GerenciamentoDeFuncionario\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\CSharp-senac\C#\GerenciamentoDeFuncionario\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\CSharp-senac\C#\GerenciamentoDeFuncionario\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\CSharp-senac\C#\GerenciamentoDeFuncionario\obj\Debug\net8.0-windows\GerenciamentoDeFuncionario.csproj.AssemblyReference.cache
+C:\Users\LUISFELIPEKURTZLEAO\Desktop\CSharp-senac\C#\GerenciamentoDeFuncionario\obj\Debug\net8.0-windows\Gerencia.C3E6F54F.Up2Date
