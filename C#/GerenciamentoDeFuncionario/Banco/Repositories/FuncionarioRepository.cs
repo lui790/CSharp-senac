@@ -21,6 +21,20 @@ namespace GerenciamentoDeFuncionario.Banco.Repositories
                 );
         }
 
+        public static async Task DeletarPorId(int idFuncionario)
+        {
+            await ConexaoBanco.CriarConexao().QueryAsync(
+                @"
+                    DELETE FROM Funcionario
+                    WHERE Id = @IdFuncionario 
+                ",
+                new
+                {
+                    Idfuncionario = idFuncionario
+                }
+                );
+        }
+
         internal static async Task<IEnumerable<Funcionario>> ObterTodos()
         {
             var funcionarios = await ConexaoBanco.CriarConexao().QueryAsync<Funcionario>(

@@ -66,6 +66,7 @@
             btnExcluir.TabIndex = 2;
             btnExcluir.Text = "Excluir";
             btnExcluir.UseVisualStyleBackColor = true;
+            btnExcluir.Click += btnExcluir_Click_1;
             // 
             // btnEditar
             // 
@@ -75,6 +76,7 @@
             btnEditar.TabIndex = 3;
             btnEditar.Text = "Editar";
             btnEditar.UseVisualStyleBackColor = true;
+            btnEditar.Click += btnEditar_Click;
             // 
             // FrmTelaPrincipal
             // 

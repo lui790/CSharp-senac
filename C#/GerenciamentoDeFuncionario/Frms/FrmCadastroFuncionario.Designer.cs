@@ -42,6 +42,7 @@
             rbPJ = new RadioButton();
             rbCLT = new RadioButton();
             btnSalvar = new Button();
+            lblErros = new Label();
             groupBox1.SuspendLayout();
             groupBox2.SuspendLayout();
             SuspendLayout();
@@ -99,6 +100,7 @@
             txtSalario.PlaceholderText = "2000 (somente valores numericos)";
             txtSalario.Size = new Size(315, 31);
             txtSalario.TabIndex = 5;
+            txtSalario.KeyPress += txtSalario_KeyPress;
             // 
             // groupBox1
             // 
@@ -118,13 +120,13 @@
             rbFeminino.Name = "rbFeminino";
             rbFeminino.Size = new Size(110, 29);
             rbFeminino.TabIndex = 1;
-            rbFeminino.TabStop = true;
             rbFeminino.Text = "Feminino";
             rbFeminino.UseVisualStyleBackColor = true;
             // 
             // rbMasculino
             // 
             rbMasculino.AutoSize = true;
+            rbMasculino.Checked = true;
             rbMasculino.Location = new Point(6, 30);
             rbMasculino.Name = "rbMasculino";
             rbMasculino.Size = new Size(117, 29);
@@ -152,7 +154,6 @@
             rbAutonomo.Name = "rbAutonomo";
             rbAutonomo.Size = new Size(124, 29);
             rbAutonomo.TabIndex = 2;
-            rbAutonomo.TabStop = true;
             rbAutonomo.Text = "Autônomo";
             rbAutonomo.UseVisualStyleBackColor = true;
             // 
@@ -163,13 +164,13 @@
             rbPJ.Name = "rbPJ";
             rbPJ.Size = new Size(52, 29);
             rbPJ.TabIndex = 1;
-            rbPJ.TabStop = true;
             rbPJ.Text = "PJ";
             rbPJ.UseVisualStyleBackColor = true;
             // 
             // rbCLT
             // 
             rbCLT.AutoSize = true;
+            rbCLT.Checked = true;
             rbCLT.Location = new Point(6, 32);
             rbCLT.Name = "rbCLT";
             rbCLT.Size = new Size(64, 29);
@@ -189,11 +190,21 @@
             btnSalvar.UseVisualStyleBackColor = true;
             btnSalvar.Click += btnSalvar_Click;
             // 
+            // lblErros
+            // 
+            lblErros.AutoSize = true;
+            lblErros.ForeColor = Color.Red;
+            lblErros.Location = new Point(69, 346);
+            lblErros.Name = "lblErros";
+            lblErros.Size = new Size(0, 25);
+            lblErros.TabIndex = 9;
+            // 
             // FrmCadastroFuncionario
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(lblErros);
             Controls.Add(btnSalvar);
             Controls.Add(groupBox2);
             Controls.Add(groupBox1);
@@ -229,5 +240,6 @@
         private RadioButton rbPJ;
         private RadioButton rbCLT;
         private Button btnSalvar;
+        private Label lblErros;
     }
 }
