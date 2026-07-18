@@ -1,5 +1,6 @@
 ﻿using GerenciamentoDeFuncionario.Banco.Repositories;
 using GerenciamentoDeFuncionario.Modelos;
+using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 using System.Text;
 
@@ -43,7 +44,6 @@ namespace GerenciamentoDeFuncionario.Frms
             else
             {
                 await FuncionarioRepository.Adicionar(funcionario);
-
                 this.Close();
             }
 
