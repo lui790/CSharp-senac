@@ -19,7 +19,8 @@ namespace GerenciamentoDeFuncionario.Modelos
             DataDeCadastro = dataDeCadastro;
         }
 
-        public Funcionario(int id,
+        public Funcionario(
+            int id,
             string nome,
             string email,
             char sexo,

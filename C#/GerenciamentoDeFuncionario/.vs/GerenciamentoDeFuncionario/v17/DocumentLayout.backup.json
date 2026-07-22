@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\C#\\GerenciamentoDeFuncionario\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7708A429-469B-4CE5-A78B-ED37581D3FEC}|GerenciamentoDeFuncionario.csproj|c:\\users\\luisfelipekurtzleao\\desktop\\csharp-senac\\c#\\gerenciamentodefuncionario\\frms\\frmcadastrofuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7708A429-469B-4CE5-A78B-ED37581D3FEC}|GerenciamentoDeFuncionario.csproj|solutionrelative:frms\\frmcadastrofuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7708A429-469B-4CE5-A78B-ED37581D3FEC}|GerenciamentoDeFuncionario.csproj|c:\\users\\luisfelipekurtzleao\\desktop\\csharp-senac\\c#\\gerenciamentodefuncionario\\frms\\frmtelaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7708A429-469B-4CE5-A78B-ED37581D3FEC}|GerenciamentoDeFuncionario.csproj|solutionrelative:frms\\frmtelaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7708A429-469B-4CE5-A78B-ED37581D3FEC}|GerenciamentoDeFuncionario.csproj|c:\\users\\luisfelipekurtzleao\\desktop\\csharp-senac\\c#\\gerenciamentodefuncionario\\banco\\repositories\\funcionariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7708A429-469B-4CE5-A78B-ED37581D3FEC}|GerenciamentoDeFuncionario.csproj|solutionrelative:banco\\repositories\\funcionariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7708A429-469B-4CE5-A78B-ED37581D3FEC}|GerenciamentoDeFuncionario.csproj|c:\\users\\luisfelipekurtzleao\\desktop\\csharp-senac\\c#\\gerenciamentodefuncionario\\frms\\frmatualizacaofuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,12 +15,12 @@
       "RelativeMoniker": "D:0:0:{7708A429-469B-4CE5-A78B-ED37581D3FEC}|GerenciamentoDeFuncionario.csproj|solutionrelative:modelos\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7708A429-469B-4CE5-A78B-ED37581D3FEC}|GerenciamentoDeFuncionario.csproj|c:\\users\\luisfelipekurtzleao\\desktop\\csharp-senac\\c#\\gerenciamentodefuncionario\\frms\\frmcadastrofuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7708A429-469B-4CE5-A78B-ED37581D3FEC}|GerenciamentoDeFuncionario.csproj|solutionrelative:frms\\frmcadastrofuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{7708A429-469B-4CE5-A78B-ED37581D3FEC}|GerenciamentoDeFuncionario.csproj|c:\\users\\luisfelipekurtzleao\\desktop\\csharp-senac\\c#\\gerenciamentodefuncionario\\frms\\frmcadastrofuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7708A429-469B-4CE5-A78B-ED37581D3FEC}|GerenciamentoDeFuncionario.csproj|solutionrelative:frms\\frmcadastrofuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7708A429-469B-4CE5-A78B-ED37581D3FEC}|GerenciamentoDeFuncionario.csproj|c:\\users\\luisfelipekurtzleao\\desktop\\csharp-senac\\c#\\gerenciamentodefuncionario\\banco\\repositories\\funcionariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7708A429-469B-4CE5-A78B-ED37581D3FEC}|GerenciamentoDeFuncionario.csproj|solutionrelative:banco\\repositories\\funcionariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7708A429-469B-4CE5-A78B-ED37581D3FEC}|GerenciamentoDeFuncionario.csproj|c:\\users\\luisfelipekurtzleao\\desktop\\csharp-senac\\c#\\gerenciamentodefuncionario\\frms\\frmtelaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7708A429-469B-4CE5-A78B-ED37581D3FEC}|GerenciamentoDeFuncionario.csproj|solutionrelative:frms\\frmtelaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,83 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "FrmTelaPrincipal.cs",
               "DocumentMoniker": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\C#\\GerenciamentoDeFuncionario\\Frms\\FrmTelaPrincipal.cs",
               "RelativeDocumentMoniker": "Frms\\FrmTelaPrincipal.cs",
               "ToolTip": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\C#\\GerenciamentoDeFuncionario\\Frms\\FrmTelaPrincipal.cs",
               "RelativeToolTip": "Frms\\FrmTelaPrincipal.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwB0AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAowEEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-18T00:41:21.088Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "FrmCadastroFuncionario.cs",
               "DocumentMoniker": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\C#\\GerenciamentoDeFuncionario\\Frms\\FrmCadastroFuncionario.cs",
               "RelativeDocumentMoniker": "Frms\\FrmCadastroFuncionario.cs",
               "ToolTip": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\C#\\GerenciamentoDeFuncionario\\Frms\\FrmCadastroFuncionario.cs",
               "RelativeToolTip": "Frms\\FrmCadastroFuncionario.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAYwC4AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwC4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-18T00:07:54.046Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "FrmAtualizacaoFuncionario.cs",
               "DocumentMoniker": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\C#\\GerenciamentoDeFuncionario\\Frms\\FrmAtualizacaoFuncionario.cs",
               "RelativeDocumentMoniker": "Frms\\FrmAtualizacaoFuncionario.cs",
-              "ToolTip": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\C#\\GerenciamentoDeFuncionario\\Frms\\FrmAtualizacaoFuncionario.cs*",
-              "RelativeToolTip": "Frms\\FrmAtualizacaoFuncionario.cs*",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAYwFoAAAAdAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\C#\\GerenciamentoDeFuncionario\\Frms\\FrmAtualizacaoFuncionario.cs",
+              "RelativeToolTip": "Frms\\FrmAtualizacaoFuncionario.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAIwDUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-16T00:26:43.343Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "FuncionarioRepository.cs",
               "DocumentMoniker": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\C#\\GerenciamentoDeFuncionario\\Banco\\Repositories\\FuncionarioRepository.cs",
               "RelativeDocumentMoniker": "Banco\\Repositories\\FuncionarioRepository.cs",
-              "ToolTip": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\C#\\GerenciamentoDeFuncionario\\Banco\\Repositories\\FuncionarioRepository.cs",
-              "RelativeToolTip": "Banco\\Repositories\\FuncionarioRepository.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAowGIAAAAQAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\C#\\GerenciamentoDeFuncionario\\Banco\\Repositories\\FuncionarioRepository.cs*",
+              "RelativeToolTip": "Banco\\Repositories\\FuncionarioRepository.cs*",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAywF0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-17T22:11:41.449Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FrmCadastroFuncionario.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\C#\\GerenciamentoDeFuncionario\\Frms\\FrmCadastroFuncionario.cs",
-              "RelativeDocumentMoniker": "Frms\\FrmCadastroFuncionario.cs",
-              "ToolTip": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\C#\\GerenciamentoDeFuncionario\\Frms\\FrmCadastroFuncionario.cs [Projeto]",
-              "RelativeToolTip": "Frms\\FrmCadastroFuncionario.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-18T00:07:52.858Z",
-              "EditorCaption": " [Projeto]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Funcionario.cs",
               "DocumentMoniker": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\C#\\GerenciamentoDeFuncionario\\Modelos\\Funcionario.cs",
               "RelativeDocumentMoniker": "Modelos\\Funcionario.cs",
               "ToolTip": "C:\\Users\\LUISFELIPEKURTZLEAO\\Desktop\\CSharp-senac\\C#\\GerenciamentoDeFuncionario\\Modelos\\Funcionario.cs",
               "RelativeToolTip": "Modelos\\Funcionario.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwBYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T00:35:13.247Z",
+              "WhenOpened": "2026-07-21T22:58:03.166Z",
               "EditorCaption": ""
             }
           ]

@@ -78,7 +78,7 @@ namespace GerenciamentoDeFuncionario.Frms
             } 
             else
             {
-                await FuncionarioRepository.AtualizarFuncionario(this.IdFuncionario);
+                await FuncionarioRepository.AtualizarFuncionario(funcionario, this.IdFuncionario);
 
                 this.Close();
             }

@@ -1,6 +1,7 @@
 ﻿using Dapper;
 using GerenciamentoDeFuncionario.Banco.Configuracao;
 using GerenciamentoDeFuncionario.Modelos;
+using System.Security.Cryptography.X509Certificates;
 
 namespace GerenciamentoDeFuncionario.Banco.Repositories
 {
@@ -85,18 +86,21 @@ namespace GerenciamentoDeFuncionario.Banco.Repositories
             await ConexaoBanco.CriarConexao().QueryAsync(
                 @"
                     UPDATE Funcionario
-                        @Email,
-                        @Sexo,
-                        @TipoDeContrato,
-                        @Salario,
-                        @DataDeAtualizacao
-                    WHERE Id = @idFuncionario
+                        SET
+                        Email = @Email,
+                        Sexo = @Sexo,
+                        TipoDeContrato = @TipoDeContrato,
+                        Salario = @Salario,
+                        DataDeAtualizacao = @DataDeAtualizacao
+                    WHERE Id = @IdFuncionario
                 ",
-                new
-                {
-                    IdFuncionario = idFuncionario
-                }
+                funcionario
                 );
+        }
+
+        internal static async Task AtualizarFuncionario(Funcionario funcionario, object idFuncionario)
+        {
+            throw new NotImplementedException();
         }
     }
 }

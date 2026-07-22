@@ -57,11 +57,13 @@ namespace GerenciamentoDeFuncionario.Frms
             }
         }
 
-        private void btnEditar_Click(object sender, EventArgs e)
+        private async void btnEditar_Click(object sender, EventArgs e)
         {
             int idFuncionario = (int)dgvFuncionarios.SelectedRows[0].Cells[0].Value;
 
             new FrmAtualizacaoFuncionario(idFuncionario).ShowDialog();
+
+            await AtualizarTabela();
         }
     }
 }
